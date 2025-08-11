@@ -19,7 +19,6 @@
 
 body {
     display: grid;
-    grid-template-rows: 1fr auto;
     gap: var(--spacing-500);
     place-items: center;
     padding: 1.625rem;
