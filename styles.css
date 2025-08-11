@@ -64,6 +64,7 @@ body {
 .Card__content {
     display: grid;
     gap: var(--spacing-200);
+    padding-inline: var(--spacing-200);
 }
 
 .Card__title {
